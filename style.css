@@ -1,0 +1,38 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#score{
+    font-size: 23px;
+    float:left;
+    margin-left: 30px;
+    color: yellow;
+}
+
+#timer{
+    font-size: 23px;
+    float: right;
+    margin-right: 60px;
+    color: springgreen;
+}
+
+#draw_sketch{
+    color: red;
+    font-size: 25px;
+}
+
+#confidence{
+    color: purple;
+    font-size: 25px;
+}
+
+#sketch{
+    color: blue;
+    font-size: 25px;
+}
+
+h1{
+    color: powderblue;
+}
+
+
